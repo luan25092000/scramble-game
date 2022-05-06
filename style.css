@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Bungee&family=Bungee+Shade&family=IBM+Plex+Sans&family=Josefin+Sans&family=League+Spartan&family=Major+Mono+Display&family=Montserrat:wght@600&family=Quicksand:wght@500&family=Raleway&display=swap');
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	justify-content: center;
+}
+h1, h2, h3, p {
+	font-family: cabin;
+}
+h1 {
+	font-size: 150px;
+	text-align: center;
+}
+#word {
+	font-size: 300px;
+	background: teal;
+	border-radius: 20px;
+	text-align: center;
+	letter-spacing: 20px;
+	text-transform: uppercase;
+	width: 1500px;
+	height: max-content;
+	margin-left: auto;
+	margin-right: auto;
+}
+#type {
+	margin-top: 20px;
+	font-size: 150px;
+	background: darkcyan;
+	border-radius: 15px;
+	text-align: center;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+	width: 1200px;
+	height: max-content;
+	margin-left: auto;
+	margin-right: auto;
+}
